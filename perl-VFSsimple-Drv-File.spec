@@ -1,7 +1,7 @@
 %define module	VFSsimple-Drv-File
 %define name	perl-%{module}
 %define version	0.03
-%define release	%mkrel 4
+%define release	%mkrel 5
 
 Summary:	A VFSsimple implementation over local files
 Name:		%{name}
